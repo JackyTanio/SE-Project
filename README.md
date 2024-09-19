@@ -135,5 +135,3 @@ Each endpoint responds with an appropriate HTTP status code and error message if
 
 This project is licensed under the MIT License.
 "# SE-Project" 
-"# SE-Project" 
-"# SE-Project" 
